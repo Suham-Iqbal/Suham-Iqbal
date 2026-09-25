@@ -125,19 +125,13 @@ I'm **Suham Iqbal Khan**, a Computer Science student and Full-Stack AI Developer
 <h2 id="github-stats">📊 GITHUB STATS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suham-Iqbal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Suham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suham-Iqbal&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suham-Iqbal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Suham's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suham-Iqbal&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suham-Iqbal&theme=react&hide_border=true&background=0D1117" alt="Suham's GitHub Streak" />
 </div>
 
-<hr bordercolor="#30363d" />
 
-<h2 id="contribution-graph">📈 CONTRIBUTION GRAPH</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suham-Iqbal&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph" />
-</div>
 
 <hr bordercolor="#30363d" />
 
