@@ -25,7 +25,7 @@
 
 <br/>
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Hacker Coding" />
 
 <h2 id="about-me">👨‍💻 ABOUT ME</h2>
 
@@ -193,7 +193,7 @@ Rather than relying solely on coursework, I focus on building complete systems f
 <h2 id="activity-graph">📈 ACTIVITY OVERVIEW & RADAR</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suham-Iqbal&theme=radical" alt="Radar Activity Graph" width="100%" />
+  <img src="https://metrics.lecoq.io/Suham-Iqbal?template=classic&base=activity,community,repositories,metadata&plugin_habits=yes&plugin_habits_charts=yes&config_theme=tokyonight" alt="Metrics Radar & Activity" width="100%" />
 </div>
 
 <hr bordercolor="#30363d" />
