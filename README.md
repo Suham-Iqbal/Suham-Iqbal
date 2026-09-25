@@ -9,7 +9,7 @@
   <h3>Computer Science Student | Software Engineer</h3>
 
   <a href="https://www.linkedin.com/in/suhamiqbalkhan/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Cloud+Developer;Distributed+Systems+%26+Serverless;Building+Decentralized+Web3+DApps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development;AI%2FML+%26+Data+Science;Distributed+Systems+%26+Serverless" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,6 +24,8 @@
 </div>
 
 <br/>
+
+<img align="right" width="180" src="https://media1.giphy.com/media/qgQUggCGvnkZy/giphy.gif" alt="Coding Cat" />
 
 <h2 id="about-me">👨‍💻 ABOUT ME</h2>
 
@@ -184,6 +186,14 @@ Rather than relying solely on coursework, I focus on building complete systems f
   </table>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suham-Iqbal&theme=radical&hide_border=true" alt="Suham's GitHub Streak" />
+</div>
+
+<hr bordercolor="#30363d" />
+
+<h2 id="activity-graph">📈 ACTIVITY OVERVIEW</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suham-Iqbal&bg_color=0D1117&color=36BCF7&line=e91e63&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <hr bordercolor="#30363d" />
