@@ -192,12 +192,6 @@ Rather than relying solely on coursework, I focus on building complete systems f
 
 <hr bordercolor="#30363d" />
 
-<h2 id="activity-graph">📈 ACTIVITY OVERVIEW</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suham-Iqbal&bg_color=0D1117&color=36BCF7&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
 <hr bordercolor="#30363d" />
 
 <h2 id="contribution-graph">📈 3D CONTRIBUTION GRAPH</h2>
