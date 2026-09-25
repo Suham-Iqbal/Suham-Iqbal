@@ -22,5 +22,4 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "feat: generated 3d contribution graph"
-          git push
+          git diff-index --quiet HEAD || (git commit -m "feat: generated 3d contribution graph" && git pull --rebase && git push)
