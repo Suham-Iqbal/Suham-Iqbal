@@ -14,69 +14,116 @@
   </picture>
 </div>
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/Suham-Iqbal">github.com/Suham-Iqbal</a> ·
-  <a href="https://www.linkedin.com/in/suhamiqbalkhan">linkedin</a> ·
-  <a href="mailto:suham.iqbal7860@gmail.com">email</a>
-</div>
-
 <br/>
 <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
-<div align="center">
-  <b>Full-Stack Software Engineer & AI Developer</b> | BS Computer Science (Batch 2026)<br/>
-  <i>Passionate about designing scalable systems, building AI workflows, and cloud architecture.</i>
-</div>
-<br/>
+## 👨‍💻 About Me
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,nodejs,express,supabase,docker,git,github&theme=dark" alt="My Skills" />
-  </a>
-</div>
+I'm **Suham Iqbal Khan**, a Computer Science student and Full-Stack AI Developer passionate about designing and building scalable, reliable, and impactful software solutions. I enjoy solving real-world problems, exploring new technologies, and continuously improving my skills.
+
+- 🎓 BS Computer Science (Batch 2026)
+- 🌐 Building full-stack web applications using Next.js and React
+- 🧠 Developing AI-powered applications and autonomous workflows
+- ☁️ Building backend services using Supabase, Node.js, and Docker
+- 💡 Interested in Software Engineering, Artificial Intelligence & Cloud Computing
 
 <br/>
-<hr/>
 
-<h2 align="center">⭐ Featured Projects</h2>
+## ⭐ LATEST PROJECTS
 
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 <a href="https://github.com/Suham-Iqbal/dograh-main">Dograh</a></h3>
       <br />
-      <p align="center">An open-source, self-hostable platform for building production AI voice agents. The platform includes a visual workflow builder connecting LLMs, TTS, and STT modules.</p>
-      <p align="center"><code>Python</code> <code>Next.js</code> <code>Docker</code> <code>AI</code></p>
+      <p>An open-source, self-hostable platform for building production AI voice agents. The platform includes a visual workflow builder connecting LLMs, TTS, and STT modules.</p>
+      <p><code>Python</code> <code>Next.js</code> <code>Docker</code> <code>AI</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 <a href="https://github.com/Suham-Iqbal/job-ready">Job Ready</a></h3>
       <br />
-      <p align="center">An AI-powered career transition platform designed to support job seekers with smart resume analysis and interview prep, utilizing Google Gemini.</p>
-      <p align="center"><code>Next.js</code> <code>React</code> <code>Supabase</code></p>
+      <p>An AI-powered career transition platform designed to support job seekers with smart resume analysis and interview prep, utilizing Google Gemini.</p>
+      <p><code>Next.js</code> <code>React</code> <code>Supabase</code></p>
     </td>
   </tr>
+</table>
+
+## 🔥 MORE PROJECTS
+
+<table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">☁️ <a href="https://github.com/Suham-Iqbal/cloudsync">CloudSync Agent</a></h3>
       <br />
-      <p align="center">A distributed workload synchronization agent and full-featured web dashboard for seamless file management across cloud storage.</p>
-      <p align="center"><code>Node.js</code> <code>Express</code> <code>React</code></p>
+      <p>A distributed workload synchronization agent and full-featured web dashboard for seamless file management across cloud storage.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ <a href="https://github.com/Suham-Iqbal/init-n">Init N / Omnia</a></h3>
       <br />
-      <p align="center">Complex autonomous AI workflows using n8n. Node-based automation pipelines connecting multiple APIs and databases.</p>
-      <p align="center"><code>n8n</code> <code>REST APIs</code> <code>AI</code></p>
+      <p>Complex autonomous AI workflows using n8n. Node-based automation pipelines connecting multiple APIs and databases.</p>
+      <p><code>n8n</code> <code>REST APIs</code> <code>AI</code></p>
     </td>
   </tr>
 </table>
 
 <br/>
-<hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🏆 HIGHLIGHTS
+
+- **AI Development:** Built highly scalable voice agents and n8n workflows.
+- **Full Stack Web:** Developed multiple production-ready dashboards and platforms.
+- **Continuous Learning:** Always exploring new technologies like Next.js, Docker, and Supabase.
+
+<br/>
+
+## 🛠️ TECH STACK
+
+**Languages:**
+<br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Libraries:**
+<br/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases & Tools:**
+<br/>
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
+
+<br/>
+
+## 🤝 Open to Opportunities
+
+I'm actively seeking Software Engineering, Full Stack, or AI Development internship opportunities where I can apply my skills, contribute to meaningful projects, and continue growing as a software engineer.
+
+Feel free to connect with me via LinkedIn or email!
+
+<br/>
+
+## 📫 CONNECT WITH ME
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/suhamiqbalkhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suham.iqbal7860@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+## 📊 GITHUB STATS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suham-Iqbal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Suham's GitHub Stats" />
@@ -87,9 +134,8 @@
 </div>
 
 <br/>
-<hr/>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
   <picture>
