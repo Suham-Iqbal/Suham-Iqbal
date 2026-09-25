@@ -194,7 +194,7 @@ Rather than relying solely on coursework, I focus on building complete systems f
 
 <hr bordercolor="#30363d" />
 
-<h2 id="contribution-graph">📈 CONTRIBUTIONS GRAPH</h2>
+<h2 id="contribution-graph">📈 CONTRIBUTION GRAPH</h2>
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
