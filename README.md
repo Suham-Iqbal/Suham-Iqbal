@@ -131,6 +131,14 @@ I'm **Suham Iqbal Khan**, a Computer Science student and Full-Stack AI Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suham-Iqbal&theme=react&hide_border=true&background=0D1117" alt="Suham's GitHub Streak" />
 </div>
 
+<hr bordercolor="#30363d" />
+
+<h2 id="contribution-graph">📈 3D CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
+
 
 
 <hr bordercolor="#30363d" />
