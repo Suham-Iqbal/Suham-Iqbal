@@ -25,7 +25,7 @@
 
 <br/>
 
-<img align="right" width="180" src="https://media1.giphy.com/media/qgQUggCGvnkZy/giphy.gif" alt="Coding Cat" />
+<img align="right" width="180" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" />
 
 <h2 id="about-me">👨‍💻 ABOUT ME</h2>
 
@@ -190,10 +190,10 @@ Rather than relying solely on coursework, I focus on building complete systems f
 
 <hr bordercolor="#30363d" />
 
-<h2 id="activity-graph">📈 ACTIVITY OVERVIEW</h2>
+<h2 id="activity-graph">📈 ACTIVITY OVERVIEW & RADAR</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suham-Iqbal&bg_color=0D1117&color=36BCF7&line=e91e63&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suham-Iqbal&theme=radical" alt="Radar Activity Graph" width="100%" />
 </div>
 
 <hr bordercolor="#30363d" />
