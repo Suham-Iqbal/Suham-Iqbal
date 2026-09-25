@@ -9,7 +9,7 @@
   <h3>Computer Science Student | Software Engineer</h3>
 
   <a href="https://www.linkedin.com/in/suhamiqbalkhan/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Cloud+Developer;AI%2FML+%26+Data+Science+Enthusiast;Distributed+Systems+%26+Serverless;Building+Decentralized+Web3+DApps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+%26+Cloud+Developer;Distributed+Systems+%26+Serverless;Building+Decentralized+Web3+DApps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -175,15 +175,15 @@ Rather than relying solely on coursework, I focus on building complete systems f
   <table bordercolor="#30363d">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suham-Iqbal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Suham's GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suham-Iqbal&show_icons=true&theme=radical&hide_border=true" alt="Suham's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suham-Iqbal&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suham-Iqbal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suham-Iqbal&theme=react&hide_border=true&background=0D1117" alt="Suham's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suham-Iqbal&theme=radical&hide_border=true" alt="Suham's GitHub Streak" />
 </div>
 
 <hr bordercolor="#30363d" />
