@@ -1,4 +1,23 @@
 <div align="center">
+  <pre><code>
+  VISUAL.MAP                                   SYSTEM.INFO                  🔴 LIVE
+
+         . . .                                 Subject       : Suham Iqbal Khan
+       .       .                               Role          : Software Engineer | AI
+     .     *     .                             Origin        : Pakistan
+    .    *   *    .                            Status        : Building + Shipping
+    .  *       *  .                            ToolChain     : VS Code • Cursor • Git
+    .    *   *    .                            Core.Lang     : TypeScript • Python • Rust
+     .     *     .                             Core.Frontend : React • Next.js • Tailwind
+       .       .                               Core.Backend  : Node.js • FastAPI
+         . . .                                 Grid.Mail     : suham.iqbal7860@gmail.com
+  
+  PTS 18000 · FS/SERPENTINE                    ALL SYSTEMS NOMINAL          UTC+5 
+  </code></pre>
+</div>
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ascii.svg">
     <source media="(prefers-color-scheme: light)" srcset="ascii.svg">
@@ -132,44 +151,21 @@ Rather than relying solely on coursework, I focus on building complete systems f
 
 <h2 id="tech-stack">🛠️ TECH STACK</h2>
 
-**Languages:**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <p><b>my perfect stack`</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,solidity,rust,python,postgres,tailwind,git,github,docker,vscode&perline=7" alt="My Skills" />
+  </a>
+</div>
 
-**Frontend & Mobile:**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<hr bordercolor="#30363d" />
 
-**Backend & APIs:**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+<h2 id="signals">📡 SIGNALS</h2>
 
-**Cloud, Databases & Tools:**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+  <img src="skill_radar.svg" width="45%" alt="Skill Radar" />
+  <img src="language_stack.svg" width="45%" alt="Contract & Language Stack" />
+</div>
 
 <hr bordercolor="#30363d" />
 
