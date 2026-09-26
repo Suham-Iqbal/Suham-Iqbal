@@ -44,21 +44,9 @@ Rather than relying solely on coursework, I focus on building complete systems f
 <br/>
 
 <div align="center">
-  <pre><code>
-  VISUAL.MAP                                   SYSTEM.INFO                  🔴 LIVE
-
-         . . .                                 Subject       : Suham Iqbal Khan
-       .       .                               Role          : Software Engineer | AI
-     .     *     .                             Origin        : Pakistan
-    .    *   *    .                            Status        : Building + Shipping
-    .  *       *  .                            ToolChain     : VS Code • Cursor • Git
-    .    *   *    .                            Core.Lang     : TypeScript • Python • Rust
-     .     *     .                             Core.Frontend : React • Next.js • Tailwind
-       .       .                               Core.Backend  : Node.js • FastAPI
-         . . .                                 Grid.Mail     : suham.iqbal7860@gmail.com
-  
-  PTS 18000 · FS/SERPENTINE                    ALL SYSTEMS NOMINAL          UTC+5 
-  </code></pre>
+  <a href="https://github.com/Suham-Iqbal">
+    <img src="terminal.svg" alt="Terminal Profile" width="100%" />
+  </a>
 </div>
 
 <hr bordercolor="#30363d" />
