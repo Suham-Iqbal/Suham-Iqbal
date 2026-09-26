@@ -1,23 +1,4 @@
 <div align="center">
-  <pre><code>
-  VISUAL.MAP                                   SYSTEM.INFO                  🔴 LIVE
-
-         . . .                                 Subject       : Suham Iqbal Khan
-       .       .                               Role          : Software Engineer | AI
-     .     *     .                             Origin        : Pakistan
-    .    *   *    .                            Status        : Building + Shipping
-    .  *       *  .                            ToolChain     : VS Code • Cursor • Git
-    .    *   *    .                            Core.Lang     : TypeScript • Python • Rust
-     .     *     .                             Core.Frontend : React • Next.js • Tailwind
-       .       .                               Core.Backend  : Node.js • FastAPI
-         . . .                                 Grid.Mail     : suham.iqbal7860@gmail.com
-  
-  PTS 18000 · FS/SERPENTINE                    ALL SYSTEMS NOMINAL          UTC+5 
-  </code></pre>
-</div>
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ascii.svg">
     <source media="(prefers-color-scheme: light)" srcset="ascii.svg">
@@ -59,6 +40,26 @@ Rather than relying solely on coursework, I focus on building complete systems f
 - ☁️ **Currently Focused On:** Backend systems, serverless architecture, cloud technologies, applied AI/ML projects, and building distributed microservices.
 - 🏅 **Achievements:** Final Year Project Competition Participant at NUML University Nexus Event (Project: UrbanEase - Convenience Meets Community).
 - 📚 **Certifications:** Vibe Coding Fundamentals (University of Colorado), Reliability, Cloud Computing & Machine Learning (Johns Hopkins University).
+
+<br/>
+
+<div align="center">
+  <pre><code>
+  VISUAL.MAP                                   SYSTEM.INFO                  🔴 LIVE
+
+         . . .                                 Subject       : Suham Iqbal Khan
+       .       .                               Role          : Software Engineer | AI
+     .     *     .                             Origin        : Pakistan
+    .    *   *    .                            Status        : Building + Shipping
+    .  *       *  .                            ToolChain     : VS Code • Cursor • Git
+    .    *   *    .                            Core.Lang     : TypeScript • Python • Rust
+     .     *     .                             Core.Frontend : React • Next.js • Tailwind
+       .       .                               Core.Backend  : Node.js • FastAPI
+         . . .                                 Grid.Mail     : suham.iqbal7860@gmail.com
+  
+  PTS 18000 · FS/SERPENTINE                    ALL SYSTEMS NOMINAL          UTC+5 
+  </code></pre>
+</div>
 
 <hr bordercolor="#30363d" />
 
@@ -152,10 +153,17 @@ Rather than relying solely on coursework, I focus on building complete systems f
 <h2 id="tech-stack">🛠️ TECH STACK</h2>
 
 <div align="center">
-  <p><b>my perfect stack`</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,solidity,rust,python,postgres,tailwind,git,github,docker,vscode&perline=7" alt="My Skills" />
-  </a>
+  <b>Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,solidity,cpp,html,css" alt="Languages" /><br/><br/>
+
+  <b>Frontend & Mobile:</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux" alt="Frontend" /><br/><br/>
+
+  <b>Backend & APIs:</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" alt="Backend" /><br/><br/>
+
+  <b>Cloud, Databases & Tools:</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,docker,cloudflare,git,vercel,postman" alt="Tools" />
 </div>
 
 <hr bordercolor="#30363d" />
