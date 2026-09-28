@@ -56,31 +56,31 @@ Rather than relying solely on coursework, I focus on building complete systems f
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ <a href="https://github.com/Suham-Iqbal/cloudsync">Hybrid Cloud Sync Platform</a></h3>
-      <p>A highly efficient Hybrid Real-Time Cloud Sync Platform that automatically synchronizes local files to cloud storage while providing live operational visibility. Features include Google Drive API integration, OAuth 2.0 authentication, MD5-based duplicate detection, round-robin workload distribution, retry mechanisms, and a live monitoring dashboard powered by Cloudflare Workers.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔗 <a href="#">EtherDo (Web3)</a></h3>
-      <p>EtherDo is a fully on-chain task management DApp that completely replaces traditional backend servers and databases with Ethereum smart contracts. It features immutable, verifiable, and transparent tasks stored via Solidity smart contracts on a Ganache local blockchain. Includes core operations like toggle status and soft delete, paired with a sleek glassmorphism frontend using Web3.js.</p>
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ganache-E4A663?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏢 <a href="#">UrbanEase</a></h3>
-      <p>A comprehensive community management application conceptualized to bridge the gap between residents and administrators. It greatly improves transparency by digitizing complaint tracking, enabling secure online bill payments, hosting a digital notice board, and offering an SOS-style emergency alert system for critical situations.</p>
+      <h3 align="center">🏢 <a href="https://github.com/Suham-Iqbal/UrbanEase-Smart-Society-App">UrbanEase</a></h3>
+      <p>A comprehensive mobile ecosystem bridging the gap between residents and administrators. Features include real-time geolocation, JazzCash mobile payments, offline-first syncing, and secure RBAC dashboards on a Node.js/MongoDB backend.</p>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/Suham-Iqbal/dograh-main">Dograh</a></h3>
-      <p>An advanced, open-source, and self-hostable platform engineered for building production-ready AI voice agents. The platform boasts a highly intuitive visual workflow builder that seamlessly connects large language models (LLMs), Text-to-Speech (TTS), and Speech-to-Text (STT) modules in a containerized environment.</p>
+      <h3 align="center">⚙️ <a href="https://github.com/Suham-Iqbal/init-n">Omnia (Agentic OS)</a></h3>
+      <p>A sophisticated multi-agent desktop runtime and autonomous AI workflow orchestration system leveraging WebSockets and n8n. Intelligently routes data between multiple third-party APIs and LLM providers for full automation.</p>
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agentic_AI-005571?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ <a href="https://github.com/Suham-Iqbal/cloudsync">CloudSync (Distributed)</a></h3>
+      <p>A highly efficient Hybrid Real-Time Cloud Sync Platform featuring Google Drive integration, MD5-based duplicate detection, round-robin workload distribution, and live monitoring powered by serverless Cloudflare Workers.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Serverless-363636?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/Suham-Iqbal/dograh-main">Dograh (Voice AI)</a></h3>
+      <p>An advanced, open-source, and self-hostable platform engineered for building production-ready AI voice agents. Features an intuitive visual workflow builder connecting LLMs, TTS, and STT modules via Docker.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AI_Workflows-FF6D5A?style=flat-square" />
@@ -102,11 +102,11 @@ Rather than relying solely on coursework, I focus on building complete systems f
       <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ <a href="https://github.com/Suham-Iqbal/init-n">Init N / Omnia</a></h3>
-      <p>A sophisticated orchestration of autonomous AI workflows leveraging n8n. This project focuses on building complex, node-based automation pipelines that intelligently route data between multiple third-party APIs, databases, and LLM providers, completely automating redundant operational tasks.</p>
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
-      <img src="https://img.shields.io/badge/Automation-339933?style=flat-square" />
+      <h3 align="center">📸 <a href="https://github.com/Suham-Iqbal/Al-Pose-Tracker">AI Pose Tracker</a></h3>
+      <p>A computer vision implementation mapping 33 body landmarks in live video feeds using Python, OpenCV, and MediaPipe. Engineered for performance optimization and real-time inference on edge devices.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-00B2A9?style=flat-square" />
     </td>
   </tr>
 </table>
