@@ -39,7 +39,8 @@ Rather than relying solely on coursework, I focus on building complete systems f
 - 💼 **Experience:** Former MERN Stack Intern at IZOC Solutions. Contributed to real-world application features including JWT authentication, role-based access control, analytics dashboards, and complex REST API integrations.
 - ☁️ **Currently Focused On:** Backend systems, serverless architecture, cloud technologies, applied AI/ML projects, and building distributed microservices.
 - 🏅 **Achievements:** Final Year Project Competition Participant at NUML University Nexus Event (Project: UrbanEase - Convenience Meets Community).
-- 📚 **Certifications:** Vibe Coding Fundamentals (University of Colorado), Reliability, Cloud Computing & Machine Learning (Johns Hopkins University).
+- 🏆 **Professional Certification:** **IBM Full Stack Software Developer** (15 Courses completed with 90%+ average grades across React, Python, Django, Node.js, Docker, Kubernetes, Microservices & GenAI).
+- 📚 **Other Certifications:** Vibe Coding Fundamentals (University of Colorado), Reliability, Cloud Computing & Machine Learning (Johns Hopkins University).
 
 <br/>
 
@@ -47,6 +48,35 @@ Rather than relying solely on coursework, I focus on building complete systems f
   <a href="https://github.com/Suham-Iqbal">
     <img src="terminal.svg" alt="Terminal Profile" width="100%" />
   </a>
+</div>
+
+<hr bordercolor="#30363d" />
+
+<h2 id="certifications">📜 PROFESSIONAL CERTIFICATION</h2>
+
+<div align="center">
+  <table bordercolor="#30363d" width="100%">
+    <tr>
+      <td width="55%" valign="middle" style="padding: 20px;">
+        <img src="https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge" />
+        <img src="https://img.shields.io/badge/Coursera-Verified-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Badge" />
+        <img src="https://img.shields.io/badge/15_Courses-Completed-17b978?style=for-the-badge" alt="15 Courses" />
+        <br/><br/>
+        <h3>🎓 IBM Full Stack Software Developer Professional Certificate</h3>
+        <p><b>Issued by:</b> IBM Skills Network &amp; Coursera &bull; <b>Completed:</b> October 2026</p>
+        <p>Rigorous 15-course professional program covering Cloud Native Application Development, Microservices, Docker, Kubernetes, OpenShift, React, Node.js, Python, Django, SQL/NoSQL, CI/CD, and Generative AI.</p>
+        <br/>
+        <a href="https://coursera.org/verify/professional-cert/I31IVML27ZGI" target="_blank">
+          <img src="https://img.shields.io/badge/Verify_Credential-I31IVML27ZGI-0077B5?style=flat-square&logo=coursera&logoColor=white" alt="Verify Credential" />
+        </a>
+      </td>
+      <td width="45%" align="center" valign="middle" style="padding: 10px;">
+        <a href="https://coursera.org/verify/professional-cert/I31IVML27ZGI" target="_blank">
+          <img src="ibm-fullstack-developer-certificate.png" width="95%" alt="IBM Full Stack Software Developer Certificate - Suham Iqbal Khan" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr bordercolor="#30363d" />
